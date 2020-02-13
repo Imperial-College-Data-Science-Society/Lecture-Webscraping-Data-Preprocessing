@@ -1,5 +1,5 @@
 requests
-beautifulsoup
+beautifulsoup4
 pandas
 matplotlib
 scipy
